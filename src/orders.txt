@@ -1,0 +1,5 @@
+orderID - orderDate - customerName - cashierName - itemID - amount - totalPrice
+167JLZ - 23-10-24 - Marks -  John - 043 - 1 - 2000.0
+167JLZ - 23-10-24 - Marks -  John - 054 - 1 - 2000.0
+926GRR - 23-10-24 - Mon -  John - 033 - 1 - 2000.0
+167JLZ - 23-10-24 - Marks -  John - 053 - 1 - 2000.0
